@@ -1,4 +1,0 @@
-vao trang
-nhap email
-nhap pass
-nhan login
